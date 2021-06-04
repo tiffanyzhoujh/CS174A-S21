@@ -1,8 +1,8 @@
 # Team Project: Mini-golf
 ## Team Members
-Bob Qiu (UID: 405-171-645)\
-Tiffany Zhou (UID: 705-321-747)\
-Jeren Huang (UID: 605-389-002)
+Bob Qiu\
+Tiffany Zhou\
+Jeren Huang
 
 
 ## Introduction
